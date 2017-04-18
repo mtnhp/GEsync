@@ -11,4 +11,4 @@ To Install Toolbar:
 
 Recommended Google Earth Settings (Navigation Tab):
 * Increase Fly-To Speed > 1.000
-* Select "Do not automatically tile while zooming"
+* Select "Do not automatically tilt while zooming"
