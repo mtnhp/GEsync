@@ -1,9 +1,9 @@
 # GEsync
-The tool will synchronize the current ArcMap view in Google Earth/Google Earth Pro
+The tool will synchronize the current ArcMap view in Google Earth Pro
 
 Requirements:
 * ArcGIS 10.1+ (untested in 10.0) - Python 2.7.x compatible
-* Google Earth 5.0+  (Google Earth Pro also works)
+* Google Earth Pro (Google Earth 5.0+ also works)
 
 To Install Toolbar:
 * Download
