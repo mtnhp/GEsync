@@ -9,7 +9,7 @@ To Install Toolbar:
 * Download
 * Run .esriaddin
 
-Recommended Google Earth Settings (Navigation Tab):
+Recommended Google Earth Pro Settings (Tools > Options > Navigation Tab):
 * Increase Fly-To Speed > 1.000
 * Select "Do not automatically tilt while zooming"
 
