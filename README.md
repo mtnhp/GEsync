@@ -6,7 +6,7 @@ Requirements:
 * Google Earth Pro (Google Earth 5.0+ also works)
 
 To Install Toolbar:
-* Download
+* Download (e.g. click link to googleEarthSync.esriaddin above and then click Download)
 * Run .esriaddin
 
 Recommended Google Earth Pro Settings (Tools > Options > Navigation Tab):
