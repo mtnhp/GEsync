@@ -13,7 +13,7 @@ Recommended Google Earth Pro Settings (Tools > Options > Navigation Tab):
 * Increase Fly-To Speed > 1.000
 * Select "Do not automatically tilt while zooming"
 
-To Uninstall:
+To Uninstall (uninstall previous versions before installing a new one):
 * Customize > Add-In Manager...
 * Select and click "Delete this Add-In"
 * Close ArcMap to complete process
